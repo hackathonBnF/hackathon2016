@@ -12,6 +12,8 @@ La Bibliothèque nationale de France organise son premier hackathon les 19 et 20
 
 **Pour contribuer** au choix des thèmes abordés >> échangez avec les experts de la BnF autour des données mises à disposition dans le cadre du hackathon et sur les thèmatiques qui seront abordées durant l'événement. Cette discussion est dés à présent ouverte au sein du forum de la mission étalab.
 
-**Pour tous** >> le public est convié à venir gratuitement assister aux présentations des projets, à des démonstrations des outils numériques de la BnF et des <trouvailles> de Gallicanautes, ou encore à un concert à partir de partitions disponibles sur le site. A distance, suivez le hackathon via les réseaux sociaux de la bibliothèque et le hashtag #HackathonBnF.
+**Pour tous** >> le public est convié à venir gratuitement assister aux présentations des projets, à des démonstrations des outils numériques de la BnF et des « trouvailles » de Gallicanautes, ou encore à un concert à partir de partitions disponibles sur le site. À distance, suivez le hackathon via les réseaux sociaux de la bibliothèque et le hashtag #HackathonBnF.
 
-Informations pratiques sur bnf.fr
+Informations pratiques sur [bnf.fr] (http://www.bnf.fr/fr/la_bnf/anx_actu_bib/a.hackathon_2016.html "informations pratiques")
+
+La documentation sur les API se trouvent sur le [wiki](./wiki) de ce site.
