@@ -15,5 +15,3 @@ La Bibliothèque nationale de France organise son premier hackathon les 19 et 20
 **Pour tous** >> le public est convié à venir gratuitement assister aux présentations des projets, à des démonstrations des outils numériques de la BnF et des « trouvailles » de Gallicanautes, ou encore à un concert à partir de partitions disponibles sur le site. À distance, suivez le hackathon via les réseaux sociaux de la bibliothèque et le hashtag #HackathonBnF.
 
 Informations pratiques sur [bnf.fr] (http://www.bnf.fr/fr/la_bnf/anx_actu_bib/a.hackathon_2016.html "informations pratiques")
-
-La documentation sur les API se trouvent sur le [wiki](./wiki) de ce site.
